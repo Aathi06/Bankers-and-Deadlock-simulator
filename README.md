@@ -144,6 +144,9 @@ deadlock-simulator/
 ---
 
 ## 📸 Screenshots
+![UI](screenshots/ui.png)
+![Bankers](screenshots/bankers.png)
+![Deadlock](screenshots/deadlock.png)
 
 
 ## 📸 Graph Color Legend
